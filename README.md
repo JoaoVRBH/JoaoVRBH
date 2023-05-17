@@ -22,7 +22,7 @@
   
   <a href="https://www.linkedin.com/in/joão-victor-ribeiro-borges-74321b204/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"   target="_blank"></a>
   
-  ![Snake animation](https://github.com/JoaoVRBH/JoaoVRBH/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/JoaoVRBH)
 
   </div>
   
